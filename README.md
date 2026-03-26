@@ -1,3 +1,16 @@
+CFS Framework
+
+Flow and Constraint
+
+Outcomes are not decided —  
+they are formed.
+
+A Systemic Model for Understanding  
+How Systems Move, Adapt, and Become Inevitable
+
+By  
+Abdulaziz bin Saeed Al-Wahaibi
+
 # cfs-framework
 A systemic framework for understanding how flow, pressure, and constraints drive systems toward inevitable outcomes.
 
