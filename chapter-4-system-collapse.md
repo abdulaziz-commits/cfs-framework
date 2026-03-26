@@ -182,3 +182,8 @@ Understanding collapse allows systems to be stabilized before reaching critical 
 The goal is not to react to collapse,  
 but to recognize the conditions that make it inevitable —  
 and act before they are fully formed.
+
+---
+
+Previous → [Chapter 3 – Strategic Use](chapter-3-strategic-use.md)  
+Next → [Chapter 5 – Conditional Balance](chapter-5-conditional-balance.md)
