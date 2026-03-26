@@ -170,3 +170,8 @@ It is directly observable in real-world systems.
 By shifting attention from visible symptoms to underlying structure,  
 it becomes possible to understand not just what is happening —  
 but why it keeps happening.
+
+---
+
+Previous → [Chapter 1 – Foundations of Flow and Constraint](chapter-1-foundations.md)  
+Next → [Chapter 3 – Strategic Use](chapter-3-strategic-use.md)
