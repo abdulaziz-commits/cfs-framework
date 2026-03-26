@@ -160,3 +160,8 @@ It ensures that flow continues —
 but only under conditions that preserve system integrity.
 
 This is how stability is maintained without sacrificing movement.
+
+---
+
+Previous → [Chapter 4 – System Collapse](chapter-4-system-collapse.md)  
+Next → [Chapter 6 – Rebuilding the System](chapter-6-rebuilding-system.md)
