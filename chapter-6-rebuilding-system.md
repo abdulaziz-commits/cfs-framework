@@ -162,3 +162,8 @@ This completes the cycle:
 
 From movement → to pressure → to constraint → to collapse →  
 and finally → to structured stability.
+
+---
+
+Previous → [Chapter 5 – Conditional Balance](chapter-5-conditional-balance.md)  
+Next → [Final Chapter – Conclusion](final-chapter-conclusion.md)
