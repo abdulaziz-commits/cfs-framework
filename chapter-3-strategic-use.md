@@ -192,3 +192,8 @@ reactive management → strategic control
 
 By acting on structure instead of symptoms,  
 it becomes possible to guide systems toward stable and predictable outcomes.
+
+---
+
+Previous → [Chapter 2 – Application](chapter-2-application.md)  
+Next → [Chapter 4 – System Collapse](chapter-4-system-collapse.md)
