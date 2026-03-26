@@ -113,3 +113,7 @@ that their outcomes are no longer surprising.
 ## Author
 
 Abdulaziz bin Saeed Al-Wahaibi
+
+---
+
+Back to → [Chapter 1 – Foundations of Flow and Constraint](chapter-1-foundations.md)
