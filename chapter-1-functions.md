@@ -152,3 +152,7 @@ Instead of asking:
 The better question becomes:
 
 > "What conditions are shaping this outcome?"
+>
+> ---
+
+Next → [Chapter 2 – Application](chapter-2-application.md)
